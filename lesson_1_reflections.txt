@@ -1,0 +1,23 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Ans: It helped to find out the lines that were deleted and the new lines that were added. From the new lines that were added it was easier to determine the bug also the typos.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Ans:It helps to determine where the bug was introduced. Which was the file where the bug was introduced . Which is the last correct version of the file.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Ans: Pros: 1.You can yourself set a certan parameter (like 50 lines) that decides when to commit.
+2.You can easily identify then which is the version of commit that has caused the error
+Cons: 1. You lack the uniformity and precision of the automatic saving.
+2.more error-prone you might forget to commit at times.
+
+
+How can you use the commands git log and git diff to view the history of files?
+Ans:git log gives all the history of various commits to file along with the author who made the commit and the dat when the commit was made.
+git diff is used to compare between two commit versions of the file to determine what was the change made in new file, which line swere deleted and which lines are added.
+
+How might using version control make you more confident to make changes that could break something?
+AnsLversion control can definitely provide the informatio related to when the bugs were introduced, which was the file in which the bug was introduced . Also it helps in keeping history of the file metadata as what lines were added or sbtracted .
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Ans:I would like to use git to check the changes i have made in the repository reflections .
+
