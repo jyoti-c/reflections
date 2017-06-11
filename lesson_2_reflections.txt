@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Ans:It helps in maintaining different versions of the file. Otherwise it will be treated as any other normal directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans:Stagig area provides the commit options . As to which files one needs to commit. Working directory and repository will contain both files to be committed and the untracked files. 
