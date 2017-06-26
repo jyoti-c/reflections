@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Ans: When i want my file to be made public I would make it remote tha local so that it is easily accessible from anywhere 
+just by providing  a link which could be useful when working in group projects so that the other memebers are aware of the
+commits that I have made into the project.
