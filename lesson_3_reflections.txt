@@ -17,4 +17,7 @@ Ans: The log is up to date on both the repositoires
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Ans:By sending the files via email collaboration can be done. Using Git or GitHub is easier as we can make the file public and can get multiple views regardding our project . Also by comment swe can ask for the changes to be made . Thus collaboration becomes simpler.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Ans:When we have to make multiple commits in a single branch it is feasible if u make all the changes in that branch and then update the master branch . Master is the main branch of any repository so updating master with recent changes is always good and must be done wheras by updating branches and then the mster we can specify the commits for which the update is made finally onto the master.
+
 
