@@ -12,6 +12,9 @@ Ans:Fork is used to create a copy of the fileon the github database .
     Branches are used for naming the commits so it is easily verified ny the user what the last commit was by the use of name of branch instead of commit id.
     
 What is the benefit of having a copy of the last known state of the remote stored locally?
-Ans: The log is up to date on both the repositoires.
+Ans: The log is up to date on both the repositoires 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Ans:By sending the files via email collaboration can be done. Using Git or GitHub is easier as we can make the file public and can get multiple views regardding our project . Also by comment swe can ask for the changes to be made . Thus collaboration becomes simpler.
 
 
